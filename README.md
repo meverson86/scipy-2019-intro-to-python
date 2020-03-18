@@ -17,6 +17,8 @@ interpret code written by others.
 See the tutorial description on the conference website
 [here](https://www.scipy2019.scipy.org/tutorial/Introduction-to-Python-and-Programming).
 
+The recorded video from the SciPy 2019 conference can be found [here](https://www.youtube.com/watch?v=6KM8HOQi5Xk).
+
 ## Setup Instructions
 
 **Please do at least the download and install of Anaconda before coming to the tutorial!**
